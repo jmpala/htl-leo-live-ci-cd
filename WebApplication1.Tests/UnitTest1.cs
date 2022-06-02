@@ -5,13 +5,13 @@ namespace WebApplication1.Tests;
 public class UnitTest1
 {
     [Fact]
-    public void Test1()
+    public void Test()
     {
         Assert.True(true);
     }
 
     [Fact]
-    public void Test2()
+    public void The_Test()
     {
         Assert.True(false);
     }
