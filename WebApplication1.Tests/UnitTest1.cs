@@ -9,10 +9,4 @@ public class UnitTest1
     {
         Assert.True(true);
     }
-
-    [Fact]
-    public void The_Test()
-    {
-        Assert.True(false);
-    }
 }
