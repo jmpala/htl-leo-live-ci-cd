@@ -1,6 +1,6 @@
- name: Continuous Integration and Deployment
+name: Continuous Integration and Deployment
 
- on:
+on:
   push:
     branches:
       - main
